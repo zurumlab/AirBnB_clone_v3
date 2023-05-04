@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 James Chizurum Akandu Chizurum - [Github](https://github.com/zurumlab)
-
+Banji Odukoya - [Github](https://github.com/Saibantoril)
 Maureen Isagi
 
 Nakachukwu Sixtus Onyedibe - [Github](https://github.com/Xys-Tus) 
